@@ -1,5 +1,7 @@
 This archive contains data on PC memberships at several TCS conferences (at the time of writing, SODA, STOC, and FOCS from 2017 through STOC 2024). 
 
+The latest spreadsheet is the file 'output.csv'.
+
 Filenames include a two-digit year and a one-letter conference code (soDa, Stoc, Focs). 
 
 The raw text files contain text copied from calls for papers. 
