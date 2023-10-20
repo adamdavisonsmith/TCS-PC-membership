@@ -1,0 +1,55 @@
+Alexandr Andoni
+Amit Kumar
+Anastasios Sidiropoulos
+Anne Driemel
+Avishay Tal
+Balasubramanian Sivan
+Barna Saha
+Bruce Shepherd
+Charilaos Efthymiou
+Chris Umans
+Christos Tzamos
+David P. Williamson
+David Woodruff
+Fabian Kuhn
+Gabor Kun
+Gautam Kamath
+Hans Bodlaender
+Hu Fu
+Huy Lê Nguyen
+Janardhan Kulkarni
+Jelani Nelson
+Jesper Nederlof
+Jugal Garg
+Kamesh Munagala 
+Karthekeyan Chandrasekaran
+Konstantin Makarychev
+Laszlo Miklos Lovasz
+Laura Sanita
+Lorenzo Orecchia
+Marco Molinaro
+Maria Chudnovsky
+Mark Bun
+Mary Wootters
+Melanie Schmidt
+Michael Dinitz
+Michael Kapralov
+Mihyun Kang
+Moran Feldman
+Nikhil Bansal
+Nisheeth Vishnoi
+Petr Hlineny
+Radu Curticapean
+Ravishankar Krishnaswamy
+Robert Kleinberg
+Sahil Singla
+Sepehr Assadi
+Sergio Cabello
+Shay Solomon
+Shiri Chechik
+Sungjin Im
+Thomas Steinke
+Virginia Vassilevska Williams
+Wolfgang Mulzer 
+Yossi Azar
+Yuval Rabani

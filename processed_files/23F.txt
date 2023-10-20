@@ -1,0 +1,66 @@
+Amir Abboud
+Pankaj K. Agarwal
+Sepehr Assadi
+Nikhil Bansal
+Arnab Bhattacharyya
+Antonio Blanca
+Arkadev Chattopadhyay
+Shuchi Chawla
+Shiri Chechik
+Gil Cohen
+Vincent Cohen-Addad
+Costis Daskalakis
+Yuval Filmus
+Sebastian Forster
+András Gilyén
+Mohsen Ghaffari
+Yannai Gonczarowski
+Rishab Goyal
+Martin Grohe
+Aayush Jain
+Valentine Kabanets
+Gautam Kamath
+Thomas Kesselheim
+Valerie King
+Gillat Kol
+Pravesh Kothari
+Michal Koucky
+Katrina Ligett
+Nutan Limaye
+Huijia (Rachel) Lin
+Alex Lombardi
+Shachar Lovett
+Dániel Marx
+Raghu Meka
+Dieter van Melkebeek
+Ankur Moitra
+Shay Moran
+Danupon Nanongkai
+Aleksandar Nikolov
+Ryan O’Donnell
+Rafael Oliveira
+Shayan Oveis Gharan
+Debmalya Panigrahi
+Chris Peikert
+Richard Peng
+Seth Pettie
+Sofya Raskhodnikova
+Bhaskar Ray Chaudhury
+Dana Ron
+Noga Ron-Zewi
+Thomas Rothvoss
+Aviad Rubinstein
+Sushant Sachdeva
+Barna Saha
+Amit Sahai
+Shubhangi Saraf
+Aaron Sidford
+Noah Stephens-Davidowitz
+Madhu Sudan
+Thomas Vidick
+Aravindan Vijayaraghavan
+Omri Weinstein
+Daniel Wichs
+Andreas Wiese
+Ronald de Wolf
+Mark Zhandry

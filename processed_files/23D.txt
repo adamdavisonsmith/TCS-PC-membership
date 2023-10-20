@@ -1,0 +1,69 @@
+Alexandr Andoni
+Simon Apers
+Sepehr Assadi
+Nikhil Bansal
+Antonio Blanca
+Greg Bodwin
+Jan van den Brand
+Simina Brânzei
+Clément Canonne
+Yi-Jun Chang
+Flavio Chierichetti
+Amin Coja-Oghlan
+Rachel Cummings
+Shahar Dobzinski
+Michael Elkin
+Jugal Garg
+Naveen Garg
+Shayan Oveis Gharan
+Kira Goldner
+Gramoz Goranci
+Sam Hopkins
+Zhiyi Huang
+Sungjin Im
+Ross Kang
+David Kempe
+Thomas Kesselheim
+Eun Jung Kim
+Swastik Kopparty
+Ravishankar Krishnaswamy
+Janardhan Kulkarni
+Rasmus Kyng
+Lap Chi Lau
+Shi Li
+Jason Li
+Frédéric Magniez
+Pasin Manurangsi
+Andrew McGregor
+Arnaud de Mesmay
+Tillmann Miltzow
+Marco Molinaro
+Cameron Musco
+Viswanath Nagarajan
+Amir Nayyeri
+Jesper Nederlof
+Huy Lê Nguyen
+Zuzana Patáková
+Richard Peng
+Will Perkins
+Michał Pilipczuk
+Aaron Potechin
+Kent Quanrud
+Harald Raecke
+Liam Roditty
+Lars Rohwedder
+Mohammad Salavatipour
+Roy Schwartz
+Anastasios Sidiropoulos
+Sahil Singla
+Zhao Song
+Jukka Suomela
+Kavitha Telikepalli
+Vera Traub
+Kasturi Varadarajan
+Laszlo Vegh
+Erik Waingarten
+Nicole Wein
+Andreas Wiese
+Ronald de Wolf
+Rico Zenklusen

@@ -1,0 +1,25 @@
+Alexandr Andoni
+Sanjeev Arora
+Allison Bishop
+Avrim Blum
+Keren Censor-Hillel
+Timothy Chan
+Chandra Chekuri
+Jing Chen
+Zeev Dvir
+Fabrizio Grandoni
+Parikshit Gopalan
+Kasper Green Larsen
+Huijia (Rachel) Lin
+Konstantin Makarychev
+Yishay Mansour
+Jakob Nordstrom
+Debmalya Panigrahi
+Prasad Raghavendra
+Sofya Raskhodnikova
+R. Ravi
+Mario Szegedy
+Eva Tardos
+Salil Vadhan
+Avi Wigderson
+Ronald de Wolf

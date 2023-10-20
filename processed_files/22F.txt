@@ -1,0 +1,31 @@
+Josh Alman
+Anurag Anshu
+Nir Bitansky
+Keren Censor-Hillel
+Amit Chakrabarti
+Lijie Chen
+Xi Chen
+Sitan Chen
+Kai-Min Chung
+Daniel Dadush
+Ilias Diakonikolas
+Sanjam Garg
+Ashish Goel
+Alexander Golovnev
+Piotr Indyk
+Rahul Jain
+Jonathan Kelner
+James Lee
+Jason Li
+Nancy Lynch
+David M. Mount
+Christopher Musco
+Jelani Nelson
+Huy Lê Nguyen
+Andrej Risteski
+Shubhangi Saraf
+Thomas Steinke
+Nike Sun
+Vera Traub
+Emanuele Viola
+Yuichi Yoshida

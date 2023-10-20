@@ -1,0 +1,46 @@
+Sepehr Assadi
+Shalev Ben-David
+Karl Bringmann
+Shiri Chechik
+Andrew Childs
+Kai-Min Chung
+Kenneth L. Clarkson
+Alina Ene
+Michal Feldman
+Hu Fu
+Ankit Garg
+Mika Göös
+Anupam Gupta
+Venkatesan Guruswami
+Sam Hopkins
+Michael Kapralov
+Dakshita Khurana
+Gillat Kol
+Mrinal Kumar
+Amit Kumar
+Rasmus Kyng
+Kasper Green Larsen
+Euiwoong Lee
+Troy Lee
+François Le Gall
+Renato Paes Leme
+Jerry Li
+Shi Li
+Huijia (Rachel) Lin
+Konstantin Makarychev
+Pasin Manurangsi
+Shay Moran
+Dana Moshkovitz
+Cameron Musco
+Danupon Nanongkai
+Michał Pilipczuk
+Eva Rotenberg
+Thomas Rothvoss
+Sushant Sachdeva
+Rocco Servedio
+Luca Trevisan
+Greg Valiant
+Santosh Vempala
+Matt Weinberg
+Ryan Williams
+Ronald de Wolf

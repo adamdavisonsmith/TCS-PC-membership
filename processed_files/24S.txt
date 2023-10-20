@@ -1,0 +1,74 @@
+Ainesh Bakshi
+Amey Bhangale
+Markus Bläser
+Deeparnab Chakrabarty
+Parinya Chalermsook
+Karthekeyan Chandrasekaran
+Eshan Chattopadhyay
+Sitan Chen
+Matthias Christandl
+Debarati Das
+Arnaud de Mesmay
+Mahsa Derakhshan
+Tamal K. Dey
+Irit Dinur
+Talya Eden
+Uriel Feige
+Alexander Golovnev
+Fabrizio Grandoni
+Fernando Granha Jeronimo
+Siyao Guo
+Tom Gur
+Elad Hazan
+Christian Ikenmeyer
+Nicole Immorlica
+Vishesh Jain
+Anna R. Karlin
+Karthik C. S.
+Tali Kaufman
+Subhash Khot
+Dakshita Khurana
+Tomasz Kociumaka
+Frederic Koehler
+Fabian Kuhn
+Bundit Laekhanukit
+Kasper Green Larsen
+Lap Chi Lau
+Euiwoong Lee
+Xin Li
+Pinyan Lu
+Laura Mančinska
+Yasamin Nazari
+Jesper Nederlof
+Ryan O'Donnell
+Marcin Pilipczuk
+Toniann Pitassi
+Kent Quanrud
+Eva Rotenberg
+Ronitt Rubinfeld
+Nitin Saxena
+Elaine Shi
+Alistair Sinclair
+Sahil Singla
+Adam Smith
+Nikhil Srivastava
+Avishay Tal
+Li-Yang Tan
+Kevin Tian
+Ohad Trabelsi
+Madhur Tulsiani
+Jara Uitto
+Gregory Valiant
+Jan van den Brand
+Virginia Vassilevska Williams
+László A. Végh
+Eric Vigoda
+David Wajc
+Alexander S. Wein
+S. Matthew Weinberg
+Yuval Wigderson
+David P. Woodruff
+Yitong Yin
+Rico Zenklusen
+Peng Zhang
+Stanislav Živný

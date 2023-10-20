@@ -1,0 +1,30 @@
+Zeyuan Allen-Zhu
+Andris Ambainis
+Alexandr Andoni
+Adam Bouland
+Karl Bringmann
+Siu On Chan
+Shuchi Chawla
+Michael Elkin
+Alina Ene
+Yuval Filmus
+Fabrizio Grandoni
+Anupam Gupta
+Venkatesan Guruswami
+Daniel Kane
+Adam Klivans
+Huijia (Rachel) Lin
+Shachar Lovett
+Aleksandar Nikolov
+Rotem Oshman
+Shayan Oveis Gharan
+Debmalya Panigrahi
+Richard Peng
+Nitin Saxena
+Tselil Schramm
+Daniel Stefankovic
+Avishay Tal
+Santosh Vempala
+Daniel Wichs
+Huacheng Yu
+David Zuckerman

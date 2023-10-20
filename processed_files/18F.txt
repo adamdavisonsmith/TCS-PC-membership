@@ -1,0 +1,30 @@
+Aleksander Madry
+Alexandra Kolla
+Amir Abboud
+Bernhard Haeupler
+Christian Wulff-Nilsen
+Elette Boyle
+Eshan Chattopadhyay
+Faith Ellen
+Gregory Valiant
+Ivan Visconti
+Jonathan Ullman
+Kasper Green Larsen
+Ken-ichi Kawarabayashi
+Krzysztof Onak
+Mikkel Thorup
+Nikhil Bansal
+Nikhil Srivastava
+Nir Bitansky
+Nisheeth Vishnoi
+Ola Svensson
+Piotr Sankowski
+Raghu Meka
+Ryan O'Donnell
+Ryan Williams
+Stephan Kreutzer
+Thomas Rothvoss
+Tim Roughgarden
+Vincent Cohen-Addad
+Yael Kalai
+Yin Tat Lee
