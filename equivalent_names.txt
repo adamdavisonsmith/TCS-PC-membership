@@ -6,4 +6,19 @@ Clément Canonne, Clement Canonne
 David M. Mount, David Mount
 Kasper Green Larsen, Kasper Green-Larsen
 Shahar Dobzinski, Shahar Dobzhinski
+Alex Russell, Alexander Russell
+Anna R. Karlin, Anna Karlin
+Arnab Bhattacharyya, Arnab Bhattachryya
+David P. Woodruff, David Woodruff
+Gregory Valiant, Greg Valiant
+Harald Räcke, Harald Raecke
+James R. Lee, James Lee
+Kenneth L. Clarkson, Ken Clarkson
+Laura Sanità, Laura Sanita 
+László A. Végh, László Végh
+Michał Pilipczuk, Michal Pilipczuk
+Nikhil Devanur, Nikhil R Devanur
+Pravesh K. Kothari, Pravesh Kothari
+Ryan O'Donnell, Ryan O’Donnell
+Matt Weinberg, S. Matthew Weinberg
 
